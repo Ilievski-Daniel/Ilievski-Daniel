@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ilievski-Daniel
 - 👀 I’m interested in Software Development and DevOps
 - 🌱 I’m currently studying for AWS Certification
-- 💞️ I’m looking to collaborate on Laravel projects
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 Feel free to connect with me on LinkedIn: [Daniel Ilievski](https://www.linkedin.com/in/danielilievski/)
 
 <!---
