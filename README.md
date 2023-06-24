@@ -1,7 +1,7 @@
 ## About me
 
 - 👋 Hi, I’m @Ilievski-Daniel
-- 👀 I’m interested in Software Development and DevOps
+- 👀 I’m interested in DevOps & Software Development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Feel free to connect with me on LinkedIn: [Daniel Ilievski](https://www.linkedin.com/in/danielilievski/)
 
