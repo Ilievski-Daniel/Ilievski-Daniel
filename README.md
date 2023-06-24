@@ -41,7 +41,7 @@
 [![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)](https://www.linux.org)
 [![Bash](https://img.shields.io/badge/Bash-lightgrey?logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![MySQL](https://img.shields.io/badge/MySQL-green?logo=mysql)](https://www.mysql.com)
+[![MySQL](https://img.shields.io/badge/MySQL-lightblue?logo=mysql)](https://www.mysql.com)
 
 <!---
 Ilievski-Daniel/Ilievski-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
