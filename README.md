@@ -1,9 +1,9 @@
 ## About me
 
-- 👋 Hi, I’m @Ilievski-Daniel
-- 👀 I’m interested in DevOps & Software Development
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 Feel free to connect with me on LinkedIn: [Daniel Ilievski](https://www.linkedin.com/in/danielilievski/)
+👋 Hi, I’m @Ilievski-Daniel
+👀 I’m interested in DevOps & Software Development
+💞️ I’m looking to collaborate on interesting projects
+📫 Feel free to connect with me on LinkedIn: [Daniel Ilievski](https://www.linkedin.com/in/danielilievski/)
 
 ## Cloud Platforms
 [![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)](https://aws.amazon.com)
