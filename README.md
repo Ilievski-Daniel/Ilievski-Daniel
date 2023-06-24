@@ -11,6 +11,7 @@
 ## Infrastructure as Code
 [![Terraform](https://img.shields.io/badge/Terraform-blueviolet?logo=terraform)](https://www.terraform.io)
 [![CloudFormation](https://img.shields.io/badge/CloudFormation-9cf?logo=amazon-aws)](https://aws.amazon.com/cloudformation)
+[![Ansible](https://img.shields.io/badge/Ansible-lightblue?logo=ansible)](https://www.ansible.com)
 
 ## Containerization
 [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](https://www.docker.com)
@@ -40,6 +41,7 @@
 [![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)](https://www.linux.org)
 [![Bash](https://img.shields.io/badge/Bash-lightgrey?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![SQL](https://img.shields.io/badge/SQL-ff69b4?logo=sql)](https://en.wikipedia.org/wiki/SQL)
 
 <!---
 Ilievski-Daniel/Ilievski-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
